@@ -1,0 +1,51 @@
+#colorBackIndex{
+	background-color: black;
+}
+#colorBackLogin{
+	background-color: #495F76;
+}
+#colorBackRecettes{
+	background-color: #000A13;
+	color: white;
+}
+
+#colorBackRefCon{
+	background-color:#323B38;
+	color: white;
+}
+#colorBackInscri{
+	background-color:#EFAA24;
+}
+.white{
+	color: white;
+}
+#black{
+	color: black;
+}
+.tdNom, p {
+	font-weight: bold;
+
+}
+a:link {color:#800040; text-decoration:none}
+a:visited {color:#800040;}
+a:hover {color:white }
+input[type=submit] {
+	background-color:#800040;
+	color: white;
+	padding: 9px 15px;
+	border:thin;
+	border-radius: 4px;
+	cursor: pointer;
+	float: left;
+}
+
+.AdminMembre{
+	background-image: url('img/background.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;  
+	background-size: cover;
+	color:#FDDF67;
+}
+  
+
+  
